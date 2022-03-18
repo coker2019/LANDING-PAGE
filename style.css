@@ -1,0 +1,145 @@
+body {
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    font-family: Roboto;
+    display: flex;
+    flex-direction: column;
+  }
+  .hero{
+    box-sizing: border-box;
+    height: 100vh;
+  }
+  .hero,
+  footer
+  {
+      background-color: #1F2937;
+      
+    
+    
+  }
+  .container{
+    display: flex;
+     flex-direction: column;
+    margin-left: 300px;
+    margin-right: 300px;
+     
+  }
+  .header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    margin-bottom: 50px;
+    
+  }
+  .logo{
+      font-size: 24px;
+      font-weight: bolder;
+      color: #F9FAF8;
+      margin-left: 70px;
+
+  }
+  .left{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .right{
+    display: flex;
+    align-items: center;
+    gap: 16px; 
+  }
+  ul {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+  }
+  a{
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18PX;
+
+  }
+
+  .AWESOME{
+    display: flex;
+  gap: 16px;
+  padding: 32px 16px;
+  
+  
+}
+ 
+  
+  .hero-main{
+      font-size:48px;
+      font-weight: bolder;
+      color: #F9FAF8;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  width: 300px;
+  
+ 
+  }
+  .hero-text{
+padding: 45px;
+
+  }
+  .hero-sub{
+    color: #E5E7EB;
+    font-size: 18PX;  
+    margin-bottom: 18px;
+    width: 400px;
+    
+}
+img{
+  
+  
+}
+
+button {
+    padding: 12px 24px;
+    background: #3882F6;
+    color: white;
+    border: 1PX;
+    border-radius: 8px;
+    width: 130px;
+    height: 40px;
+  }
+.info-Sec{
+  text-align: center;
+  background: white;
+  
+}
+.info-head{
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1F2937;
+  margin-top: 40px;
+}
+.box-container{
+  display: flex;
+  justify-content: center;
+  gap: 52px
+}
+.info {
+  max-width: 150px;
+  margin-top: 25px;
+}
+.box{
+  height: 160px;
+  width: 160px;
+  border: 4px solid #3882F6;
+  border-radius: 10px;
+}
+.text{
+  color: #98a5c0;
+    font-size: 18PX;  
+}
+.quote-sec{
+  background: #E5E7EB;
+ 
+}
+
+
+
