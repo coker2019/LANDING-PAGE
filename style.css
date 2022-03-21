@@ -175,7 +175,7 @@ align-items: center;
   background-color: #3882F6;
   margin-left:auto;
   margin-right: auto;
-  width: 60rem;
+  width: 70rem;
   margin-top: 100px;
   height: 150px;
   border-radius: 10px;
@@ -197,7 +197,7 @@ align-items: center;
 }
 .call-act2{
   color: #E5E7EB;
-    font-size: 18PX;
+    font-size: 16PX;
 }
 .but-act{
   border: 3px solid white;
